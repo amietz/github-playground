@@ -4,3 +4,4 @@ A new line (local)
 Agnieszka is updating the redame file (remote branches)
 Github is very cool!
 We will update the Readme file about new features.
+This repository contains experimental files for learning branching and code experimentation.

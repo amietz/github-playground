@@ -1,0 +1,2 @@
+This file is used for experimentation with code.
+Try adding new lines, editing, and deleting to learn how GitHub tracks changes.
